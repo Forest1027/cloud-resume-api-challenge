@@ -1,1 +1,5 @@
-function/.venv
+.venv
+function-source.zip
+terraform/.terraform
+.terraform*
+.DS_Store
